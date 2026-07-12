@@ -1,0 +1,9 @@
+# Arquivos de Senhas e Segredos  
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Dados brutos descompactados (Para evitar que o Git tente subir os CSVs pesados)
+*.csv
