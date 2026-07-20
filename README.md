@@ -2,7 +2,7 @@
 
 # 📊 Desafio de Dados: Portal da Transparência - Governo Federal - Viagens a Serviço
 
-Este projeto consiste de um exercício avaliativo  baseadoi numa consultoria de dados contratada pelo governo e foi desenvolvida através da construção de um **Pipeline de ETL (Extração, Transformação e Carga)** e em uma **Análise Exploratória de Dados (EDA)** baseada nos dados publicados no portal da transparência nos  6 meses no ano de 2025 dos gastos públicos com viagens a serviço.
+Este projeto consiste de um exercício avaliativo baseado numa consultoria de dados contratada pelo governo e foi desenvolvida através da construção de um **Pipeline de ETL (Extração, Transformação e Carga)** e em uma **Análise Exploratória de Dados (EDA)** baseado nos dados dos gastos públicos com viagens a serviço publicados no portal da transparência nos  6 meses no ano de 2025.
 
 O grande diferencial deste projeto de consultoria é a implementação da **Arquitetura Medallion (Medallion Architecture )**. Todo o fluxo de dados foi estruturado em **3 camadas lógicas: Raw, Silver e Gold** dentro de um banco de dados PostgreSQL, aplicando as melhores práticas de Engenharia de Dados para garantir rastreabilidade, qualidade e performance.
  
